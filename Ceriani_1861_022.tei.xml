@@ -27,18 +27,56 @@
 <text xml:lang="la">
 <body>
 
-<ab>
 <pb type="1861" n="22" xml:id="Ceriani_1861_022"/>
+<head>Fragmenta Parvae Genesis</head>
+	<cb type="Ceriani" n="1"/>
+	<milestone type="5c" unit="page" n="111"/>
+	<milestone type="19c" unit="page" n="58" xml:id="palimpsest_page_058"/>
+	<milestone unit="column" n="a"/>
+	<milestone unit="ch" n="19"/>
+	<p part="F">
+	
+-narum anni ipsius
+<lb/>secundi peperit re<lb type="inWord"/> becca isac duos fi
+<lb type="inWord"/>lios esau et iacob. Et erat iacob lenis
+<lb/> et rectus et esau<lb/> erat durus et uir
+<lb/> rusticanus et pilo
+<lb type="inWord"/>sus et iacob habitans
+<lb/> in tabernaculis.
+<milestone unit="vs" n="14"/>  Et 
+<lb/>creuerunt et iube
+<lb type="inWord"/>nes facti sunt ambo.
+<lb/> Et didicit iacob lit
+<lb type="inWord"/>teras et esau non
+<lb/> didicit quoniam ho
+<lb type="inWord"/>mo erat agrestis
+<lb/>et benator sed didicit bellum et uni
+<lb type="inWord"/>uersa opera eius 
+<lb/>erant dura.
+19:15 ‎ Et dili
+<lb type="inWord"/>gebat abraham ia
+<lb type="inWord"/>cobum et isac dili
+<lb type="inWord"/>gebat esau.
+</p>
 
-	<!-- p19c=58 p5c=111 -->
+<p>
+<lb/>19:16 ‎ Et uidebat abraham
 
--narum anni ipsius secundi peperit rebecca isac duos filios esau et iacob. Et erat iacob lenis et rectus et esau erat durus et uir rusticanus et pilosus et iacob habitans in tabernaculis.
-19:14 ‎ Et creuerunt et iubenes facti sunt ambo. Et didicit iacob litteras et esau non didicit quoniam homo erat agrestis et benator sed didicit bellum et uniuersa opera eius erant dura.
-19:15 ‎ Et diligebat abraham iacobum et isac diligebat esau.
-19:16 ‎ Et uidebat abraham
+<lb/><milestone unit="column" n="b"/>opera esau et scie
+<lb type="inWord"/>bat quoniam in ia
+<lb type="inWord"/>cob uocabitur illi 
+<lb/>semen et nomen 
+<lb/>et uocabit re
+<lb type="inWord"/>beccam et mandauit
+<lb/> illi pro iacob quoni
+<lb type="inWord"/>am ipsa diligebat
+<lb/> iacob plus quam esau.
+</p>
 
-opera esau et sciebat quoniam in iacob uocabitur illi semen et nomen et uocabit rebeccam et mandauit illi pro iacob quoniam ipsa diligebat iacob plus quam esau.
-19:17 ‎ Et dixit illi: filia custodi in nomine filii mei iacob quoniam hic mihi erit n(i)tatio super terram et in benedictione super filios hominum et uniuersi seminis mei gloria.
+<lb/><p>19:17 ‎ Et dixit illi:
+<lb/> filia cus
+<lb type="inWord"/>todi in nomine filii mei iacob quoni
+<lb type="inWord"/>am hic mihi erit n(i)tatio super terram et in benedictione super filios hominum et uniuersi seminis mei gloria.
 19:18 ‎ Quia scio quod hunc elegit deus sibi in populum sanctum ex omnibus populis qui sunt super faciem totius terrae.
 
 	<!-- p19c=57 p5c=112 -->
@@ -53,7 +91,7 @@ opera esau et sciebat quoniam in iacob uocabitur illi semen et nomen et uocabit 
 19:25 ‎ Et ipsi erunt fundamenta ponentes caeli et confirmantes terram ut agnoscantur uniuersa luminaria firmamenti.
 19:26 ‎ Et uocauit abraham - -.
 
-</ab>
+</p>
 
 </body>
 </text>
